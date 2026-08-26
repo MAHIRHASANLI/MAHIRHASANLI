@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MAHIRHASANLI/portfolio-client-nextjs/refs/heads/main/images/website-images2.png" alt="Mahir Hasani">
 
 <h1 align="center">Hi 👋, I'm Mahir Hasanli</h1>
-<h3 align="center">A passionate Mern-Stack developer from Azerbaijan</h3>
+<h3 align="center">A passionate Full-Stack developer from Azerbaijan</h3>
 
 - 🔭 I studied at Code Academy **React**
 
