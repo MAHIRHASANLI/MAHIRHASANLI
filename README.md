@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahir Hasanli</h1>
 <h3 align="center">A passionate Full-Stack developer from Azerbaijan</h3>
 
-- 🔭 I studied at Code Academy **React**
+- 🔭 I studied at Code Academy **Software Engineering**
 
 - 💬 Ask me about **Ask me about JavaScript,TypeScript, Reactjs, Nextjs, HTML/CSS/SCSS, Jqeury, Bootstrap, React, ExpressJS, MongoDB, C#, ASP.NET Core, Entity Framework Core, SQL Server, REST API**
 
