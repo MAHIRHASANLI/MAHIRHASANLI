@@ -5,7 +5,7 @@
 
 - 🔭 I studied at Code Academy **React**
 
-- 💬 Ask me about **Ask me about JavaScript,TypeScript, Reactjs, Nextjs, HTML/CSS/SCSS, Jqeury, Bootstrap, React, ExpressJS, MongoDB**
+- 💬 Ask me about **Ask me about JavaScript,TypeScript, Reactjs, Nextjs, HTML/CSS/SCSS, Jqeury, Bootstrap, React, ExpressJS, MongoDB, C#, ASP.NET Core, Entity Framework Core, SQL Server, REST API**
 
 - 📫 How to reach me How to reach me How to reach me **How to reach me 6x241rn@code.edu.az**
 
